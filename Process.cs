@@ -81,3 +81,6 @@ clas Process{
             index = value;
         }
     }
+
+    // Input methods
+    void input(ref)
